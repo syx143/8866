@@ -27,4 +27,4 @@
 为了提升用户体验，我们设置了评论区和评分系统，让你可以对影片进行评价，分享观看心得。通过与其他影迷的互动，你可以发现更多有趣的影片，提升整体的观影体验。我们的社区氛围轻松、自由，鼓励用户分享、讨论和发现更多精彩内容。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/syx143/8866 ）</span>
